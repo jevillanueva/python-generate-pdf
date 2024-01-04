@@ -1,8 +1,8 @@
 # Sample to create PDF's using weasyprint
-Use a container to execute sample.py and get PDF from:
-    - WEB ONLINE
-    - STATIC HTML
-    - HTML GENERATED WITH JINJA
+Use a container to execute sample.py and get PDF files from:
+- WEB ONLINE
+- STATIC HTML
+- HTML GENERATED WITH JINJA2
 
 To build image
 ```sh
